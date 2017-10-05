@@ -1,1 +1,2 @@
-# tf-tutorials
+# tensorflow-tutorial
+Basics of tensorflow  
